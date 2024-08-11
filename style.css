@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    height: 2rem;
+    width: 9rem;
+}
+
+nav {
+font-family: "BR Firma", sans-serif;
+font-size: 15px;
+font-style: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-weight: 400;
+}
+
+.bg-1 {
+    background: rgb(255,255,255);
+    background: linear-gradient(52deg, rgba(255,255,255,1) 20%, rgba(200,59,106,0.09427521008403361) 65%, rgba(4,9,63,0) 72%, rgba(255,255,255,1) 87%);
+}
+
+.links {
+    text-decoration: none;
+    color: #04093F;
+}
+
+.foot-links {
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    line-height: 2.2rem;
+}
+
+.links:hover {
+    color: rgb(250,74,132);
+}
+
+.foot-links:hover {
+    color: rgb(250,74,132);
+}
+
+.pink-btn {
+    background-color: rgb(250,74,132);
+}
+
+.pink-btn:hover {
+    background-color: rgb(177, 52, 94);
+}
+
+.into-header {
+font-family: "BR Firma", sans-serif;
+font-size: 60px;
+font-style: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-weight: 700;
+}
+
+.intro-details {
+font-family: "BR Firma", sans-serif;
+font-size: 15px;
+font-style: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-weight: 400;
+}
+
+.license-1 {
+    height: 1.3rem;
+    width: 2.5rem;
+}
+
+.license-2 {
+    height: 3.5rem;
+    width: 4rem;
+}
+
+small {
+    font-size: 13px;
+}
+
+.white-stores {
+    background-color: white;
+    height: 4rem;
+    width: 8rem;
+}
+
+.partners {
+    height: 2.3rem;
+    width: 6.5rem;
+}
+
+.Product-Nav {
+    background-color: rgb(230,230,236);
+}
+
+.product-list {
+    list-style-type: none;
+    line-height: 3rem;
+    margin-left: -2rem;
+}
+
+/* .Product-Nav span:hover {
+    display: block;
+} */
+
+.press1 {
+    height: 3rem;
+    width: 15rem;
+}
+
+.press2 {
+    height: 3rem;
+    width: 10rem;
+}
+
+.press3 {
+    height: 3rem;
+    width: 7rem;
+}
+
+.management-box {
+    background-color: rgb(252,240,249);
+}
+
+.management-img {
+    width: 67rem;
+    min-width: 20rem;
+}
+
+.management-btn {
+    background-color: white;
+}
+
+.management-btn:hover {
+    background-color: #FF69B4;
+}
+
+.community-color {
+    background-color: rgb(254,228,237);
+}
+
+.control-color {
+    background-color: rgb(236,229,255);
+}
+
+.security-color {
+    background-color: rgb(219,247,224);
+}
+
+.Success-img {
+    position: relative;
+    right: 1.2rem;
+}
+
+.download-box {
+    background-color: rgb(126,81,255);
+}
+
+/* .play-store {
+    width: 10rem;
+    height: 5.5rem;
+} */
+
+.app-store, .play-store {
+    width: 9rem;
+    height: 3rem;
+}
+
+.headings {
+    color: rgb(4,9,63);
+}
